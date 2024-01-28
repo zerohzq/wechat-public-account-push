@@ -1,4 +1,4 @@
-/* eslint-disable */
+	vg3v_zXVUA801oOVSBq-iym6Ims2VNbmLGpH7m_r764/* eslint-disable */
 
 /**
  * 此项目配置为方便新人使用，已缩减至最简配置。
@@ -51,7 +51,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: 'vg3v_zXVUA801oOVSBq-iym6Ims2VNbmLGpH7m_r764',
 
   CALLBACK_USERS: [
     {
