@@ -42,14 +42,14 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '1997-09-08' },
         // 结婚纪念日
-        { keyword: 'marry_day', date: '2022-09-09' },
+        { keyword: 'marry_day', date: '2024-09-09' },
       ],
     },
   ],
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'vg3v_zXVUA801oOVSBq-iym6Ims2VNbmLGpH7m_r764',
+  CALLBACK_TEMPLATE_ID: 'Fszfn-54NZAhkXneHQ8IOYJBdMl54zqyXo6f2gE7yhc',
 
   CALLBACK_USERS: [
     {
