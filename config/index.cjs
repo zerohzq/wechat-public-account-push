@@ -12,7 +12,7 @@ const USER_CONFIG = {
   APP_SECRET: '0bdf3abbdef7f1059087cc57ca190cb9',
 
   PROVINCE: '',
-  CITY: '郑州',
+  CITY: '信阳',
 
   USERS: [
     {
@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oca6d6L8Wy8Hzds7qnIVAl5VT_L0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'HqjLomk2asmZqFJ1uhAK2L57oxhLsuhB3vJMmRdDDiA',
+      useTemplateId: 'iu-HQ6J_STriSngkFaVL10W-F2opHGARd8_hXLemb8c',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '09-08',
       festivals: [
@@ -40,9 +40,10 @@ const USER_CONFIG = {
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '1998-09-08' },
+        { keyword: 'love_day', date: '2024-02-16' },
         // 结婚纪念日
         { keyword: 'marry_day', date: '2024-09-09' },
+        { keyword: 'wx_birthday_0', date: '2002-01-09' },
       ],
     },
   ],
