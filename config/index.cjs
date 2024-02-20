@@ -43,7 +43,8 @@ const USER_CONFIG = {
         { keyword: 'love_day', date: '2024-02-16' },
         // 结婚纪念日
         { keyword: 'marry_day', date: '2024-09-09' },
-        { keyword: 'wx_birthday_0', date: '2002-01-09' },
+        
+        { keyword: 'birthdays', date: '2002-01-09' },
       ],
     },
   ],
